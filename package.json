@@ -1,0 +1,15 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-intro.js",
+  "scripts": {
+    "test": "echo there are no tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "supervillains": "^3.0.0"
+  }
+}
